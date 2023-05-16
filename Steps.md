@@ -1,6 +1,6 @@
 * Set Up Development Environment:
 
-[] Install Python and the necessary libraries (e.g., OpenCV, TensorFlow, PyTorch).
+[ ] Install Python and the necessary libraries (e.g., OpenCV, TensorFlow, PyTorch).
 [] Set up an integrated development environment (IDE) or code editor of your choice.
 
 * Understand the Problem:
