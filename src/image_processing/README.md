@@ -1,1 +1,1 @@
-Implement image processing-related code.
+All the code for image processing-related.
